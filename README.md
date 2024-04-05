@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Iuliana Bacriu</h1>
 <h3 align="center">A passionate software developer from Romania</h3>
 <img align="right" alt="Coding" width=400 src="[ https://tenor.com/view/coding-gif-4706460855862906629](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=iulika2901](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)" alt="iulika2901" /></a> </p>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=iulika2901" alt="iulika2901" />
+    </a>
+</p>
 
 - 🔭 I’m currently working on [Parking helper](https://github.com/Iulika2901/Parking-Helper)
 
