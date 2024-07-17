@@ -10,13 +10,13 @@
     </a>
 </p>
 
-- 🔭 I’m currently working on [Parking helper](https://github.com/Iulika2901/Parking-Helper)
+- 🔭 I’m currently working on [Shoes-Shop](https://github.com/Iulika2901/shoes-shop)
 
-- 🌱 I’m currently learning **Css, JavaScrript, Django**
+- 🌱 I’m currently learning **MySql, React, Django**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/iuliana-maria-bacriu-65a9712a1/](https://www.linkedin.com/in/iuliana-maria-bacriu-65a9712a1/)
 
-- 💬 Ask me about **C/C++, Python and Web development**
+- 💬 Ask me about **C/C++, VHDL, Python and Web development**
 
 - 📫 How to reach me **bacriu.iuliana@yahoo.com**
 
