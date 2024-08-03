@@ -41,7 +41,7 @@
 
  
  <a href="https://unity.com/" target="_blank" rel="noreferrer"><a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/2e3a1e46-edae-4fe5-8ffb-033a6f0e1640" alt="Image 7" width="40" height="40" />
+        <img src="https://github.com/user-attachments/assets/2e3a1e46-edae-4fe5-8ffb-033a6f0e1640" alt="Image 7" width="60" height="60" />
     </a>
 
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
