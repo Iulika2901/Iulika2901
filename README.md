@@ -36,15 +36,15 @@
         <img src="https://github.com/user-attachments/assets/8f101509-699b-4135-8aab-f7c5062ddfbb" alt="Image 1" width="200" height="200" />
     </a>
 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <a >
         <img src="https://github.com/user-attachments/assets/95f12589-9e41-46c2-9c7e-157ca40e52fe" alt="Image 2" width="200" height="200" />
     </a>
 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <a >
         <img src="https://github.com/user-attachments/assets/da5e4913-43bd-4056-939f-93c62539d92b" alt="Image 3" width="200" height="200" />
     </a>
 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <a >
         <img src="https://github.com/user-attachments/assets/1a6142c8-07bb-4b50-84bc-d6c9386263d1" alt="Image 4" width="200" height="200" />
     </a>
 
