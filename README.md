@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Iuliana Bacriu</h1>
 <h3 align="center">A passionate software developer from Romania</h3>
-<img align="right" alt="Coding" width=400 src="https://tenor.com/view/coding-gif-4706460855862906629">
+
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
