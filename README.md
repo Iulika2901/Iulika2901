@@ -66,7 +66,6 @@
 </p>
 
 
-<p><img align="left" src="https://github.com/Iulika2901/Iulika2901/edit/main/README.md" alt="iulika2901" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iulika2901&show_icons=true&locale=en" alt="iulika2901" /></p>
 
