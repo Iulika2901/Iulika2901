@@ -41,27 +41,27 @@
 
  
  <a href="https://unity.com/" target="_blank" rel="noreferrer"><a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/2e3a1e46-edae-4fe5-8ffb-033a6f0e1640" alt="Image 7" width="200" height="200" />
+        <img src="https://github.com/user-attachments/assets/2e3a1e46-edae-4fe5-8ffb-033a6f0e1640" alt="Image 7" width="40" height="40" />
     </a>
 
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/8f101509-699b-4135-8aab-f7c5062ddfbb" alt="Image 1" width="200" height="200" />
+        <img src="https://github.com/user-attachments/assets/8f101509-699b-4135-8aab-f7c5062ddfbb" alt="Image 1" width="40" height="40" />
     </a>
 
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/95f12589-9e41-46c2-9c7e-157ca40e52fe" alt="Image 2" width="200" height="200" />
+        <img src="https://github.com/user-attachments/assets/95f12589-9e41-46c2-9c7e-157ca40e52fe" alt="Image 2" width="40" height="40" />
     </a>
 
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/da5e4913-43bd-4056-939f-93c62539d92b" alt="Image 3" width="200" height="200" />
+        <img src="https://github.com/user-attachments/assets/da5e4913-43bd-4056-939f-93c62539d92b" alt="Image 3" width="40" height="40" />
     </a>
 
  <a href="https://www.python.org" target="_blank" rel="noreferrer">    
-        <img src="https://github.com/user-attachments/assets/1a6142c8-07bb-4b50-84bc-d6c9386263d1" alt="Image 4" width="200" height="200" />
+        <img src="https://github.com/user-attachments/assets/1a6142c8-07bb-4b50-84bc-d6c9386263d1" alt="Image 4" width="40" height="40" />
     </a>
 
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/3395d3b3-69de-42d8-b353-1ff81a1f01b5" alt="Image 5" width="200" height="200" />
+        <img src="https://github.com/user-attachments/assets/3395d3b3-69de-42d8-b353-1ff81a1f01b5" alt="Image 5" width="40" height="40" />
     </a>
 
 
