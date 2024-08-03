@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Shoes-Shop](https://github.com/Iulika2901/shoes-shop)
 
-- 🌱 I’m currently learning **MySql, React, Django**
+- 🌱 I’m currently learning ** React, Angular, Django**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/iuliana-maria-bacriu-65a9712a1/](https://www.linkedin.com/in/iuliana-maria-bacriu-65a9712a1/)
 
@@ -30,16 +30,18 @@
 
 <a href="https://images.app.goo.gl/3EWVcHhcgzMFLc8A9" alt="vhdl" width="40" height="40"/> </a>
 
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"><a href="https://unity.com/" target="_blank" rel="noreferrer">
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+ <a href="https://unity.com/" target="_blank" rel="noreferrer"><a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/2e3a1e46-edae-4fe5-8ffb-033a6f0e1640" alt="Image 7" width="200" height="200" />
     </a>
+    <a>
         <img src="https://github.com/user-attachments/assets/8f101509-699b-4135-8aab-f7c5062ddfbb" alt="Image 1" width="200" height="200" />
     </a>
 
-    <a >
+    <a>
         <img src="https://github.com/user-attachments/assets/95f12589-9e41-46c2-9c7e-157ca40e52fe" alt="Image 2" width="200" height="200" />
     </a>
-
+https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg
     <a >
         <img src="https://github.com/user-attachments/assets/da5e4913-43bd-4056-939f-93c62539d92b" alt="Image 3" width="200" height="200" />
     </a>
