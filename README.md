@@ -63,7 +63,7 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/3395d3b3-69de-42d8-b353-1ff81a1f01b5" alt="Image 5" width="40" height="40" />
     </a>
-
+</p>
 
 
 <p><img align="left" src="https://github.com/Iulika2901/Iulika2901/edit/main/README.md" alt="iulika2901" /></p>
